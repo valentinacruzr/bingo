@@ -1,0 +1,36 @@
+.card-header {
+    background-color: #ff4a95;
+    color: white;
+}
+
+.card-header h5 {
+    margin: 0;
+}
+
+.list-group-item-1 {
+    background-color: #ffc7e9;
+}
+
+.list-group-item-2 {
+    background-color: #ffacde;
+}
+
+.list-group-item-3 {
+    background-color: #ff9fd9;
+}
+
+.list-group-item-4 {
+    background-color: #ff83cd;
+}
+
+.list-group-item-5 {
+    background-color: #fc66c0;
+}
+
+body {
+    background-image: url('/img/bb.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
